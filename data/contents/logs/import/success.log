@@ -1,0 +1,354 @@
+{"level":"info","message":"Migrating languages","timestamp":"2021-07-15T17:33:52.696Z"}
+{"level":"info","message":"French - France - fr-fr already added in the Stack.","timestamp":"2021-07-15T17:33:52.984Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2021-07-15T17:33:52.988Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-07-15T17:33:52.991Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-07-15T17:33:53.306Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2021-07-15T17:33:53.298Z"}
+{"level":"info","message":"No folders were found at: /Users/proberts/_backup_434/assets/folders.json","timestamp":"2021-07-15T17:33:53.309Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2021-07-15T17:33:54.721Z"}
+{"level":"info","message":"Completed asset import of batch no: 27","timestamp":"2021-07-15T17:33:58.179Z"}
+{"level":"info","message":"Completed asset import of batch no: 26","timestamp":"2021-07-15T17:33:59.958Z"}
+{"level":"info","message":"Completed asset import of batch no: 25","timestamp":"2021-07-15T17:34:02.402Z"}
+{"level":"info","message":"Completed asset import of batch no: 24","timestamp":"2021-07-15T17:34:04.322Z"}
+{"level":"info","message":"Completed asset import of batch no: 23","timestamp":"2021-07-15T17:34:05.151Z"}
+{"level":"info","message":"Completed asset import of batch no: 22","timestamp":"2021-07-15T17:34:06.608Z"}
+{"level":"info","message":"Completed asset import of batch no: 21","timestamp":"2021-07-15T17:34:08.016Z"}
+{"level":"info","message":"Completed asset import of batch no: 20","timestamp":"2021-07-15T17:34:09.393Z"}
+{"level":"info","message":"Completed asset import of batch no: 19","timestamp":"2021-07-15T17:34:11.546Z"}
+{"level":"info","message":"Completed asset import of batch no: 18","timestamp":"2021-07-15T17:34:13.238Z"}
+{"level":"info","message":"Completed asset import of batch no: 17","timestamp":"2021-07-15T17:34:14.287Z"}
+{"level":"info","message":"Completed asset import of batch no: 16","timestamp":"2021-07-15T17:34:17.013Z"}
+{"level":"info","message":"Completed asset import of batch no: 15","timestamp":"2021-07-15T17:34:18.501Z"}
+{"level":"info","message":"Completed asset import of batch no: 14","timestamp":"2021-07-15T17:34:19.381Z"}
+{"level":"info","message":"Completed asset import of batch no: 13","timestamp":"2021-07-15T17:34:20.982Z"}
+{"level":"info","message":"Completed asset import of batch no: 12","timestamp":"2021-07-15T17:34:22.525Z"}
+{"level":"info","message":"Completed asset import of batch no: 11","timestamp":"2021-07-15T17:34:25.047Z"}
+{"level":"info","message":"Completed asset import of batch no: 10","timestamp":"2021-07-15T17:34:27.366Z"}
+{"level":"info","message":"Completed asset import of batch no: 9","timestamp":"2021-07-15T17:34:29.631Z"}
+{"level":"info","message":"Completed asset import of batch no: 8","timestamp":"2021-07-15T17:34:31.558Z"}
+{"level":"info","message":"Completed asset import of batch no: 7","timestamp":"2021-07-15T17:34:33.168Z"}
+{"level":"info","message":"Completed asset import of batch no: 6","timestamp":"2021-07-15T17:34:35.546Z"}
+{"level":"info","message":"Completed asset import of batch no: 5","timestamp":"2021-07-15T17:34:37.628Z"}
+{"level":"info","message":"Completed asset import of batch no: 4","timestamp":"2021-07-15T17:34:40.032Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2021-07-15T17:34:42.007Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2021-07-15T17:34:43.648Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-07-15T17:34:43.654Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-07-15T17:34:43.655Z"}
+{"level":"info","message":"\u001b[32m54 assets uploaded successfully!\u001b[39m","timestamp":"2021-07-15T17:34:43.649Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-07-15T17:34:43.661Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-07-15T17:34:43.662Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-07-15T17:34:43.677Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-07-15T17:34:43.991Z"}
+{"level":"info","message":"\u001b[32mglobalfields have been imported successfully!\u001b[39m","timestamp":"2021-07-15T17:34:43.980Z"}
+{"level":"info","message":"about was updated successfully!","timestamp":"2021-07-15T17:34:47.716Z"}
+{"level":"info","message":"author was updated successfully!","timestamp":"2021-07-15T17:34:49.043Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2021-07-15T17:34:50.359Z"}
+{"level":"info","message":"home was updated successfully!","timestamp":"2021-07-15T17:34:51.715Z"}
+{"level":"info","message":"contact was updated successfully!","timestamp":"2021-07-15T17:34:53.051Z"}
+{"level":"info","message":"footer was updated successfully!","timestamp":"2021-07-15T17:34:54.404Z"}
+{"level":"info","message":"blog_posts was updated successfully!","timestamp":"2021-07-15T17:34:55.737Z"}
+{"level":"info","message":"blogs was updated successfully!","timestamp":"2021-07-15T17:34:57.076Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2021-07-15T17:34:57.077Z"}
+{"level":"info","message":"Migrating languages","timestamp":"2021-07-15T19:39:15.660Z"}
+{"level":"info","message":"French - France - fr-fr already added in the Stack.","timestamp":"2021-07-15T19:39:15.976Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:39:15.981Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-07-15T19:39:15.983Z"}
+{"level":"info","message":"No folders were found at: /Users/proberts/_backup_698/assets/folders.json","timestamp":"2021-07-15T19:39:16.319Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-07-15T19:39:16.317Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:39:16.313Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2021-07-15T19:39:17.947Z"}
+{"level":"info","message":"Completed asset import of batch no: 27","timestamp":"2021-07-15T19:39:23.213Z"}
+{"level":"info","message":"Completed asset import of batch no: 26","timestamp":"2021-07-15T19:39:25.260Z"}
+{"level":"info","message":"Completed asset import of batch no: 25","timestamp":"2021-07-15T19:39:27.556Z"}
+{"level":"info","message":"Completed asset import of batch no: 24","timestamp":"2021-07-15T19:39:29.507Z"}
+{"level":"info","message":"Completed asset import of batch no: 23","timestamp":"2021-07-15T19:39:32.497Z"}
+{"level":"info","message":"Completed asset import of batch no: 22","timestamp":"2021-07-15T19:39:34.971Z"}
+{"level":"info","message":"Completed asset import of batch no: 21","timestamp":"2021-07-15T19:39:36.493Z"}
+{"level":"info","message":"Completed asset import of batch no: 20","timestamp":"2021-07-15T19:39:38.023Z"}
+{"level":"info","message":"Completed asset import of batch no: 19","timestamp":"2021-07-15T19:39:40.197Z"}
+{"level":"info","message":"Completed asset import of batch no: 18","timestamp":"2021-07-15T19:39:42.115Z"}
+{"level":"info","message":"Completed asset import of batch no: 17","timestamp":"2021-07-15T19:39:43.227Z"}
+{"level":"info","message":"Completed asset import of batch no: 16","timestamp":"2021-07-15T19:39:46.062Z"}
+{"level":"info","message":"Completed asset import of batch no: 15","timestamp":"2021-07-15T19:39:47.469Z"}
+{"level":"info","message":"Completed asset import of batch no: 14","timestamp":"2021-07-15T19:39:48.294Z"}
+{"level":"info","message":"Completed asset import of batch no: 13","timestamp":"2021-07-15T19:39:50.037Z"}
+{"level":"info","message":"Completed asset import of batch no: 12","timestamp":"2021-07-15T19:39:51.350Z"}
+{"level":"info","message":"Completed asset import of batch no: 11","timestamp":"2021-07-15T19:39:52.693Z"}
+{"level":"info","message":"Completed asset import of batch no: 10","timestamp":"2021-07-15T19:39:54.479Z"}
+{"level":"info","message":"Completed asset import of batch no: 9","timestamp":"2021-07-15T19:39:57.768Z"}
+{"level":"info","message":"Completed asset import of batch no: 8","timestamp":"2021-07-15T19:39:59.789Z"}
+{"level":"info","message":"Completed asset import of batch no: 7","timestamp":"2021-07-15T19:40:01.477Z"}
+{"level":"info","message":"Completed asset import of batch no: 6","timestamp":"2021-07-15T19:40:03.915Z"}
+{"level":"info","message":"Completed asset import of batch no: 5","timestamp":"2021-07-15T19:40:06.004Z"}
+{"level":"info","message":"Completed asset import of batch no: 4","timestamp":"2021-07-15T19:40:08.170Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2021-07-15T19:40:10.224Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2021-07-15T19:40:12.009Z"}
+{"level":"info","message":"\u001b[32m54 assets uploaded successfully!\u001b[39m","timestamp":"2021-07-15T19:40:12.010Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-07-15T19:40:12.012Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-07-15T19:40:12.013Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-07-15T19:40:12.015Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-07-15T19:40:12.016Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-07-15T19:40:12.021Z"}
+{"level":"info","message":"\u001b[32mglobalfields have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:40:12.355Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-07-15T19:40:12.358Z"}
+{"level":"info","message":"about was updated successfully!","timestamp":"2021-07-15T19:40:16.299Z"}
+{"level":"info","message":"author was updated successfully!","timestamp":"2021-07-15T19:40:17.602Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2021-07-15T19:40:18.915Z"}
+{"level":"info","message":"Migrating languages","timestamp":"2021-07-15T19:50:37.075Z"}
+{"level":"info","message":"French - France - fr-fr already added in the Stack.","timestamp":"2021-07-15T19:50:37.391Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:50:37.397Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-07-15T19:50:37.399Z"}
+{"level":"info","message":"No folders were found at: /Users/proberts/_backup_279/assets/folders.json","timestamp":"2021-07-15T19:50:37.749Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:50:37.741Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-07-15T19:50:37.745Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2021-07-15T19:50:39.328Z"}
+{"level":"info","message":"Completed asset import of batch no: 27","timestamp":"2021-07-15T19:50:46.202Z"}
+{"level":"info","message":"Completed asset import of batch no: 26","timestamp":"2021-07-15T19:50:48.146Z"}
+{"level":"info","message":"Completed asset import of batch no: 25","timestamp":"2021-07-15T19:50:50.350Z"}
+{"level":"info","message":"Completed asset import of batch no: 24","timestamp":"2021-07-15T19:50:52.345Z"}
+{"level":"info","message":"Completed asset import of batch no: 23","timestamp":"2021-07-15T19:50:53.194Z"}
+{"level":"info","message":"Completed asset import of batch no: 22","timestamp":"2021-07-15T19:50:54.707Z"}
+{"level":"info","message":"Completed asset import of batch no: 21","timestamp":"2021-07-15T19:50:56.144Z"}
+{"level":"info","message":"Completed asset import of batch no: 20","timestamp":"2021-07-15T19:50:57.490Z"}
+{"level":"info","message":"Completed asset import of batch no: 19","timestamp":"2021-07-15T19:50:59.667Z"}
+{"level":"info","message":"Completed asset import of batch no: 18","timestamp":"2021-07-15T19:51:01.489Z"}
+{"level":"info","message":"Completed asset import of batch no: 17","timestamp":"2021-07-15T19:51:02.568Z"}
+{"level":"info","message":"Completed asset import of batch no: 16","timestamp":"2021-07-15T19:51:05.407Z"}
+{"level":"info","message":"Completed asset import of batch no: 15","timestamp":"2021-07-15T19:51:06.892Z"}
+{"level":"info","message":"Completed asset import of batch no: 14","timestamp":"2021-07-15T19:51:07.812Z"}
+{"level":"info","message":"Completed asset import of batch no: 13","timestamp":"2021-07-15T19:51:09.750Z"}
+{"level":"info","message":"Completed asset import of batch no: 12","timestamp":"2021-07-15T19:51:11.784Z"}
+{"level":"info","message":"Completed asset import of batch no: 11","timestamp":"2021-07-15T19:51:13.116Z"}
+{"level":"info","message":"Completed asset import of batch no: 10","timestamp":"2021-07-15T19:51:14.983Z"}
+{"level":"info","message":"Completed asset import of batch no: 9","timestamp":"2021-07-15T19:51:17.447Z"}
+{"level":"info","message":"Completed asset import of batch no: 8","timestamp":"2021-07-15T19:51:19.436Z"}
+{"level":"info","message":"Completed asset import of batch no: 7","timestamp":"2021-07-15T19:51:21.284Z"}
+{"level":"info","message":"Completed asset import of batch no: 6","timestamp":"2021-07-15T19:51:23.932Z"}
+{"level":"info","message":"Completed asset import of batch no: 5","timestamp":"2021-07-15T19:51:26.052Z"}
+{"level":"info","message":"Completed asset import of batch no: 4","timestamp":"2021-07-15T19:51:29.032Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2021-07-15T19:51:31.084Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2021-07-15T19:51:32.843Z"}
+{"level":"info","message":"\u001b[32m54 assets uploaded successfully!\u001b[39m","timestamp":"2021-07-15T19:51:32.844Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-07-15T19:51:32.846Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-07-15T19:51:32.848Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-07-15T19:51:32.851Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-07-15T19:51:32.852Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-07-15T19:51:32.855Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-07-15T19:51:33.209Z"}
+{"level":"info","message":"\u001b[32mglobalfields have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:51:33.207Z"}
+{"level":"info","message":"about was updated successfully!","timestamp":"2021-07-15T19:51:37.149Z"}
+{"level":"info","message":"author was updated successfully!","timestamp":"2021-07-15T19:51:38.503Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2021-07-15T19:51:39.833Z"}
+{"level":"info","message":"home was updated successfully!","timestamp":"2021-07-15T19:51:41.233Z"}
+{"level":"info","message":"contact was updated successfully!","timestamp":"2021-07-15T19:51:42.564Z"}
+{"level":"info","message":"footer was updated successfully!","timestamp":"2021-07-15T19:51:43.894Z"}
+{"level":"info","message":"blog_posts was updated successfully!","timestamp":"2021-07-15T19:51:45.264Z"}
+{"level":"info","message":"blogs was updated successfully!","timestamp":"2021-07-15T19:51:46.608Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:51:46.610Z"}
+{"level":"info","message":"Migrating languages","timestamp":"2021-07-15T19:53:31.583Z"}
+{"level":"info","message":"French - France - fr-fr already added in the Stack.","timestamp":"2021-07-15T19:53:31.915Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:53:31.919Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-07-15T19:53:31.920Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-07-15T19:53:32.238Z"}
+{"level":"info","message":"No folders were found at: /Users/proberts/_backup_817/assets/folders.json","timestamp":"2021-07-15T19:53:32.241Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:53:32.235Z"}
+{"level":"info","message":"Asset bltfb3096446803661d published successfully","timestamp":"2021-07-15T19:53:33.041Z"}
+{"level":"info","message":"Asset bltffecbfe3f2e60810 published successfully","timestamp":"2021-07-15T19:53:33.735Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2021-07-15T19:53:33.737Z"}
+{"level":"info","message":"Asset blt9eaf81e1f6b01634 published successfully","timestamp":"2021-07-15T19:53:34.634Z"}
+{"level":"info","message":"Asset bltcc54acccfa66e671 published successfully","timestamp":"2021-07-15T19:53:38.641Z"}
+{"level":"info","message":"Completed asset import of batch no: 27","timestamp":"2021-07-15T19:53:38.643Z"}
+{"level":"info","message":"Asset blt0dfae5fc359adc4e published successfully","timestamp":"2021-07-15T19:53:39.424Z"}
+{"level":"info","message":"Completed asset import of batch no: 26","timestamp":"2021-07-15T19:53:40.458Z"}
+{"level":"info","message":"Asset bltd0b4b44be8d5f3d6 published successfully","timestamp":"2021-07-15T19:53:41.779Z"}
+{"level":"info","message":"Asset blt877c9d221ead69c4 published successfully","timestamp":"2021-07-15T19:53:42.673Z"}
+{"level":"info","message":"Completed asset import of batch no: 25","timestamp":"2021-07-15T19:53:42.675Z"}
+{"level":"info","message":"Asset bltaa430efbd47e2279 published successfully","timestamp":"2021-07-15T19:53:44.820Z"}
+{"level":"info","message":"Completed asset import of batch no: 24","timestamp":"2021-07-15T19:53:44.823Z"}
+{"level":"info","message":"Completed asset import of batch no: 23","timestamp":"2021-07-15T19:53:45.611Z"}
+{"level":"info","message":"Asset bltf2ae75e9f9767bdd published successfully","timestamp":"2021-07-15T19:53:46.316Z"}
+{"level":"info","message":"Asset blt4747848bda48e799 published successfully","timestamp":"2021-07-15T19:53:47.122Z"}
+{"level":"info","message":"Completed asset import of batch no: 22","timestamp":"2021-07-15T19:53:47.124Z"}
+{"level":"info","message":"Asset blt36fdaf634bb991fd published successfully","timestamp":"2021-07-15T19:53:48.213Z"}
+{"level":"info","message":"Completed asset import of batch no: 21","timestamp":"2021-07-15T19:53:48.801Z"}
+{"level":"info","message":"Asset blt16a5122c5bf53786 published successfully","timestamp":"2021-07-15T19:53:50.522Z"}
+{"level":"info","message":"Completed asset import of batch no: 20","timestamp":"2021-07-15T19:53:50.524Z"}
+{"level":"info","message":"Asset blt072d991b815196a8 published successfully","timestamp":"2021-07-15T19:53:51.741Z"}
+{"level":"info","message":"Asset blt439799ba38985a85 published successfully","timestamp":"2021-07-15T19:53:52.730Z"}
+{"level":"info","message":"Completed asset import of batch no: 19","timestamp":"2021-07-15T19:53:52.731Z"}
+{"level":"info","message":"Asset blt8e555ed4161d7f6f published successfully","timestamp":"2021-07-15T19:53:53.567Z"}
+{"level":"info","message":"Asset bltd7e1b66197de1afa published successfully","timestamp":"2021-07-15T19:53:54.435Z"}
+{"level":"info","message":"Completed asset import of batch no: 18","timestamp":"2021-07-15T19:53:54.437Z"}
+{"level":"info","message":"Completed asset import of batch no: 17","timestamp":"2021-07-15T19:53:55.597Z"}
+{"level":"info","message":"Asset blt3aeffa2ebb6dbf67 published successfully","timestamp":"2021-07-15T19:53:56.818Z"}
+{"level":"info","message":"Completed asset import of batch no: 16","timestamp":"2021-07-15T19:53:58.324Z"}
+{"level":"info","message":"Asset blt6b052b6b77a16379 published successfully","timestamp":"2021-07-15T19:53:59.175Z"}
+{"level":"info","message":"Completed asset import of batch no: 15","timestamp":"2021-07-15T19:53:59.745Z"}
+{"level":"info","message":"Completed asset import of batch no: 14","timestamp":"2021-07-15T19:54:00.652Z"}
+{"level":"info","message":"Asset blt2e83fd3b03d79674 published successfully","timestamp":"2021-07-15T19:54:01.539Z"}
+{"level":"info","message":"Asset bltf600f044cb6059e7 published successfully","timestamp":"2021-07-15T19:54:02.465Z"}
+{"level":"info","message":"Completed asset import of batch no: 13","timestamp":"2021-07-15T19:54:02.466Z"}
+{"level":"info","message":"Completed asset import of batch no: 12","timestamp":"2021-07-15T19:54:03.846Z"}
+{"level":"info","message":"Asset blt6faba89f4b9f21f9 published successfully","timestamp":"2021-07-15T19:54:05.150Z"}
+{"level":"info","message":"Completed asset import of batch no: 11","timestamp":"2021-07-15T19:54:05.153Z"}
+{"level":"info","message":"Asset bltce82e04dac674211 published successfully","timestamp":"2021-07-15T19:54:06.086Z"}
+{"level":"info","message":"Asset blt737d8a9c94faeb27 published successfully","timestamp":"2021-07-15T19:54:06.907Z"}
+{"level":"info","message":"Completed asset import of batch no: 10","timestamp":"2021-07-15T19:54:06.910Z"}
+{"level":"info","message":"Asset bltf69084aadad0afb2 published successfully","timestamp":"2021-07-15T19:54:07.658Z"}
+{"level":"info","message":"Completed asset import of batch no: 9","timestamp":"2021-07-15T19:54:09.294Z"}
+{"level":"info","message":"Asset blt1decabb3eb879c37 published successfully","timestamp":"2021-07-15T19:54:10.566Z"}
+{"level":"info","message":"Asset blt019ac9afad2f1102 published successfully","timestamp":"2021-07-15T19:54:11.395Z"}
+{"level":"info","message":"Completed asset import of batch no: 8","timestamp":"2021-07-15T19:54:11.397Z"}
+{"level":"info","message":"Asset blt7119f9ec1bf366bb published successfully","timestamp":"2021-07-15T19:54:12.187Z"}
+{"level":"info","message":"Asset blt826a3a75d69480ad published successfully","timestamp":"2021-07-15T19:54:13.024Z"}
+{"level":"info","message":"Completed asset import of batch no: 7","timestamp":"2021-07-15T19:54:13.026Z"}
+{"level":"info","message":"Asset blt53e202baec3520dc published successfully","timestamp":"2021-07-15T19:54:14.047Z"}
+{"level":"info","message":"Asset blt8db5a17ad835b08c published successfully","timestamp":"2021-07-15T19:54:15.458Z"}
+{"level":"info","message":"Completed asset import of batch no: 6","timestamp":"2021-07-15T19:54:15.462Z"}
+{"level":"info","message":"Asset blt4cd8d0e8ac42490e published successfully","timestamp":"2021-07-15T19:54:16.334Z"}
+{"level":"info","message":"Asset blt0a0548e83b5da39f published successfully","timestamp":"2021-07-15T19:54:17.522Z"}
+{"level":"info","message":"Completed asset import of batch no: 5","timestamp":"2021-07-15T19:54:17.524Z"}
+{"level":"info","message":"Asset blt4ab881e49a3f6a15 published successfully","timestamp":"2021-07-15T19:54:18.436Z"}
+{"level":"info","message":"Asset blt9204f2f7572d51d5 published successfully","timestamp":"2021-07-15T19:54:19.875Z"}
+{"level":"info","message":"Completed asset import of batch no: 4","timestamp":"2021-07-15T19:54:19.877Z"}
+{"level":"info","message":"Asset blt5ff028a4b7ec7517 published successfully","timestamp":"2021-07-15T19:54:20.782Z"}
+{"level":"info","message":"Asset blt53a2e1334f2779c2 published successfully","timestamp":"2021-07-15T19:54:22.315Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2021-07-15T19:54:22.317Z"}
+{"level":"info","message":"Asset blt80ba71af20482b92 published successfully","timestamp":"2021-07-15T19:54:23.310Z"}
+{"level":"info","message":"Asset blt35994c7269758183 published successfully","timestamp":"2021-07-15T19:54:24.237Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2021-07-15T19:54:24.239Z"}
+{"level":"info","message":"\u001b[32m54 assets uploaded successfully!\u001b[39m","timestamp":"2021-07-15T19:54:24.240Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-07-15T19:54:24.244Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-07-15T19:54:24.242Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-07-15T19:54:24.246Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-07-15T19:54:24.245Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-07-15T19:54:24.250Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-07-15T19:54:24.569Z"}
+{"level":"info","message":"\u001b[32mglobalfields have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:54:24.566Z"}
+{"level":"info","message":"about was updated successfully!","timestamp":"2021-07-15T19:54:28.777Z"}
+{"level":"info","message":"author was updated successfully!","timestamp":"2021-07-15T19:54:30.141Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2021-07-15T19:54:32.387Z"}
+{"level":"info","message":"home was updated successfully!","timestamp":"2021-07-15T19:54:34.935Z"}
+{"level":"info","message":"contact was updated successfully!","timestamp":"2021-07-15T19:54:36.263Z"}
+{"level":"info","message":"footer was updated successfully!","timestamp":"2021-07-15T19:54:37.610Z"}
+{"level":"info","message":"blog_posts was updated successfully!","timestamp":"2021-07-15T19:54:38.961Z"}
+{"level":"info","message":"blogs was updated successfully!","timestamp":"2021-07-15T19:54:40.695Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2021-07-15T19:54:40.696Z"}
+{"level":"info","message":"Migrating languages","timestamp":"2021-07-15T20:09:50.818Z"}
+{"level":"info","message":"French - France - fr-fr already added in the Stack.","timestamp":"2021-07-15T20:09:52.500Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2021-07-15T20:09:52.505Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-07-15T20:09:52.515Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2021-07-15T20:09:52.828Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-07-15T20:09:52.845Z"}
+{"level":"info","message":"No folders were found at: /Users/proberts/_backup_554/assets/folders.json","timestamp":"2021-07-15T20:09:52.848Z"}
+{"level":"info","message":"Asset bltb41c4f884366b7e4 published successfully","timestamp":"2021-07-15T20:09:53.620Z"}
+{"level":"info","message":"Asset blt3195e8d9e64ca5c6 published successfully","timestamp":"2021-07-15T20:09:54.308Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2021-07-15T20:09:54.310Z"}
+{"level":"info","message":"Asset bltc44cd78aa0c5a752 published successfully","timestamp":"2021-07-15T20:09:56.395Z"}
+{"level":"info","message":"Asset blt789126129f9b18af published successfully","timestamp":"2021-07-15T20:09:59.005Z"}
+{"level":"info","message":"Completed asset import of batch no: 27","timestamp":"2021-07-15T20:09:59.008Z"}
+{"level":"info","message":"Asset blt8f7a0c20d4729ea9 published successfully","timestamp":"2021-07-15T20:09:59.922Z"}
+{"level":"info","message":"Completed asset import of batch no: 26","timestamp":"2021-07-15T20:10:00.999Z"}
+{"level":"info","message":"Asset blt3f1ff87d669c2243 published successfully","timestamp":"2021-07-15T20:10:02.447Z"}
+{"level":"info","message":"Asset blt3362be13bac18e0a published successfully","timestamp":"2021-07-15T20:10:03.405Z"}
+{"level":"info","message":"Completed asset import of batch no: 25","timestamp":"2021-07-15T20:10:03.408Z"}
+{"level":"info","message":"Asset blt1be853dc8d59a808 published successfully","timestamp":"2021-07-15T20:10:05.400Z"}
+{"level":"info","message":"Completed asset import of batch no: 24","timestamp":"2021-07-15T20:10:05.401Z"}
+{"level":"info","message":"Completed asset import of batch no: 23","timestamp":"2021-07-15T20:10:06.239Z"}
+{"level":"info","message":"Asset blt1c0ef55901908102 published successfully","timestamp":"2021-07-15T20:10:07.000Z"}
+{"level":"info","message":"Asset blt3668a0bcbfc39285 published successfully","timestamp":"2021-07-15T20:10:07.826Z"}
+{"level":"info","message":"Completed asset import of batch no: 22","timestamp":"2021-07-15T20:10:07.829Z"}
+{"level":"info","message":"Asset bltbe5b871b874f7780 published successfully","timestamp":"2021-07-15T20:10:08.863Z"}
+{"level":"info","message":"Completed asset import of batch no: 21","timestamp":"2021-07-15T20:10:09.487Z"}
+{"level":"info","message":"Asset blt986ca6f954357640 published successfully","timestamp":"2021-07-15T20:10:10.901Z"}
+{"level":"info","message":"Completed asset import of batch no: 20","timestamp":"2021-07-15T20:10:10.904Z"}
+{"level":"info","message":"Asset bltcff70ee02f879ac9 published successfully","timestamp":"2021-07-15T20:10:12.152Z"}
+{"level":"info","message":"Asset bltcefe991ab25fa10a published successfully","timestamp":"2021-07-15T20:10:13.075Z"}
+{"level":"info","message":"Completed asset import of batch no: 19","timestamp":"2021-07-15T20:10:13.077Z"}
+{"level":"info","message":"Asset blt228fd57842aa978b published successfully","timestamp":"2021-07-15T20:10:13.986Z"}
+{"level":"info","message":"Asset blt274a3aefd2e05659 published successfully","timestamp":"2021-07-15T20:10:14.929Z"}
+{"level":"info","message":"Completed asset import of batch no: 18","timestamp":"2021-07-15T20:10:14.932Z"}
+{"level":"info","message":"Completed asset import of batch no: 17","timestamp":"2021-07-15T20:10:16.017Z"}
+{"level":"info","message":"Asset blt9ae6af230c1281c7 published successfully","timestamp":"2021-07-15T20:10:17.264Z"}
+{"level":"info","message":"Completed asset import of batch no: 16","timestamp":"2021-07-15T20:10:18.735Z"}
+{"level":"info","message":"Asset blta5e4b4a7ccf831ea published successfully","timestamp":"2021-07-15T20:10:19.717Z"}
+{"level":"info","message":"Completed asset import of batch no: 15","timestamp":"2021-07-15T20:10:20.266Z"}
+{"level":"info","message":"Completed asset import of batch no: 14","timestamp":"2021-07-15T20:10:21.166Z"}
+{"level":"info","message":"Asset bltcef52150246d8c2e published successfully","timestamp":"2021-07-15T20:10:22.067Z"}
+{"level":"info","message":"Asset blta1a636083fd09179 published successfully","timestamp":"2021-07-15T20:10:22.974Z"}
+{"level":"info","message":"Completed asset import of batch no: 13","timestamp":"2021-07-15T20:10:22.978Z"}
+{"level":"info","message":"Completed asset import of batch no: 12","timestamp":"2021-07-15T20:10:24.325Z"}
+{"level":"info","message":"Asset blt2cee00cda51cc1d2 published successfully","timestamp":"2021-07-15T20:10:25.709Z"}
+{"level":"info","message":"Completed asset import of batch no: 11","timestamp":"2021-07-15T20:10:25.712Z"}
+{"level":"info","message":"Asset blt40231875e38d0c45 published successfully","timestamp":"2021-07-15T20:10:26.640Z"}
+{"level":"info","message":"Asset bltd6dd39feca26870d published successfully","timestamp":"2021-07-15T20:10:27.600Z"}
+{"level":"info","message":"Completed asset import of batch no: 10","timestamp":"2021-07-15T20:10:27.601Z"}
+{"level":"info","message":"Asset bltf5ebbc00cc68bc83 published successfully","timestamp":"2021-07-15T20:10:28.408Z"}
+{"level":"info","message":"Completed asset import of batch no: 9","timestamp":"2021-07-15T20:10:30.058Z"}
+{"level":"info","message":"Asset blt857ed3a58233c8d3 published successfully","timestamp":"2021-07-15T20:10:31.611Z"}
+{"level":"info","message":"Asset blt51f359974727b3be published successfully","timestamp":"2021-07-15T20:10:32.429Z"}
+{"level":"info","message":"Completed asset import of batch no: 8","timestamp":"2021-07-15T20:10:32.431Z"}
+{"level":"info","message":"Asset blte96847b5aaf74088 published successfully","timestamp":"2021-07-15T20:10:33.397Z"}
+{"level":"info","message":"Asset blt06c8d5a80c8afe4b published successfully","timestamp":"2021-07-15T20:10:34.301Z"}
+{"level":"info","message":"Completed asset import of batch no: 7","timestamp":"2021-07-15T20:10:34.303Z"}
+{"level":"info","message":"Asset blt19ec0bb227f00180 published successfully","timestamp":"2021-07-15T20:10:35.438Z"}
+{"level":"info","message":"Asset blt3acec34ed6659aeb published successfully","timestamp":"2021-07-15T20:10:37.056Z"}
+{"level":"info","message":"Completed asset import of batch no: 6","timestamp":"2021-07-15T20:10:37.058Z"}
+{"level":"info","message":"Asset blt7277c543150f724f published successfully","timestamp":"2021-07-15T20:10:38.012Z"}
+{"level":"info","message":"Asset blt40b81f02c4698f9a published successfully","timestamp":"2021-07-15T20:10:39.256Z"}
+{"level":"info","message":"Completed asset import of batch no: 5","timestamp":"2021-07-15T20:10:39.258Z"}
+{"level":"info","message":"Asset bltd4c4c2bbcc182a97 published successfully","timestamp":"2021-07-15T20:10:40.245Z"}
+{"level":"info","message":"Asset blte1cd04acb4980baa published successfully","timestamp":"2021-07-15T20:10:41.469Z"}
+{"level":"info","message":"Completed asset import of batch no: 4","timestamp":"2021-07-15T20:10:41.471Z"}
+{"level":"info","message":"Asset bltd6f996abe1445916 published successfully","timestamp":"2021-07-15T20:10:42.364Z"}
+{"level":"info","message":"Asset blt62e7b527ce417fc2 published successfully","timestamp":"2021-07-15T20:10:43.785Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2021-07-15T20:10:43.787Z"}
+{"level":"info","message":"Asset blt6ac7ed882216aa35 published successfully","timestamp":"2021-07-15T20:10:44.748Z"}
+{"level":"info","message":"Asset blt97c74620fa8f4d90 published successfully","timestamp":"2021-07-15T20:10:45.710Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2021-07-15T20:10:45.713Z"}
+{"level":"info","message":"\u001b[32m54 assets uploaded successfully!\u001b[39m","timestamp":"2021-07-15T20:10:45.714Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-07-15T20:10:45.721Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-07-15T20:10:45.723Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-07-15T20:10:45.728Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-07-15T20:10:45.730Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-07-15T20:10:45.747Z"}
+{"level":"info","message":"\u001b[32mglobalfields have been imported successfully!\u001b[39m","timestamp":"2021-07-15T20:10:46.090Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-07-15T20:10:46.108Z"}
+{"level":"info","message":"about was updated successfully!","timestamp":"2021-07-15T20:10:50.363Z"}
+{"level":"info","message":"author was updated successfully!","timestamp":"2021-07-15T20:10:51.683Z"}
+{"level":"info","message":"header was updated successfully!","timestamp":"2021-07-15T20:10:53.090Z"}
+{"level":"info","message":"home was updated successfully!","timestamp":"2021-07-15T20:10:54.448Z"}
+{"level":"info","message":"contact was updated successfully!","timestamp":"2021-07-15T20:10:55.792Z"}
+{"level":"info","message":"footer was updated successfully!","timestamp":"2021-07-15T20:10:57.149Z"}
+{"level":"info","message":"blog_posts was updated successfully!","timestamp":"2021-07-15T20:10:58.565Z"}
+{"level":"info","message":"blogs was updated successfully!","timestamp":"2021-07-15T20:10:59.914Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2021-07-15T20:10:59.915Z"}
+{"level":"info","message":"\u001b[37mMigrating workflows\u001b[39m","timestamp":"2021-07-15T20:10:59.921Z"}
+{"level":"info","message":"\u001b[37mSuppressing content type fields...\u001b[39m","timestamp":"2021-07-15T20:10:59.978Z"}
+{"level":"info","message":"Migrating entries","timestamp":"2021-07-15T20:10:59.978Z"}
+{"level":"info","message":"\u001b[32mEntries created successfully in 'en' language\u001b[39m","timestamp":"2021-07-15T20:10:59.991Z"}
+{"level":"info","message":"No entries without mapped uid found!","timestamp":"2021-07-15T20:10:59.992Z"}
+{"level":"info","message":"Successfully imported 'en' entries!","timestamp":"2021-07-15T20:10:59.994Z"}
+{"level":"info","message":"\u001b[32mImported entries in 'en' language successfully!\u001b[39m","timestamp":"2021-07-15T20:10:59.993Z"}
+{"level":"info","message":"Success file was not found at: /Users/proberts/_backup_554/mapper/entries/en/blog_posts/success.json","timestamp":"2021-07-15T20:10:59.993Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'about' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:10:59.995Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'header' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:11:00.002Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'home' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:11:00.004Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'blog_posts' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:10:59.997Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'contact' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:10:59.999Z"}
+{"level":"info","message":"\u001b[32mEntries created successfully in 'fr-fr' language\u001b[39m","timestamp":"2021-07-15T20:11:00.004Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'author' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:10:59.996Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'blogs' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:10:59.998Z"}
+{"level":"info","message":"\u001b[37mNo entries were found for Content type:'footer' in 'fr-fr' language!\u001b[39m","timestamp":"2021-07-15T20:11:00.001Z"}
+{"level":"info","message":"No entries without mapped uid found!","timestamp":"2021-07-15T20:11:00.005Z"}
+{"level":"info","message":"Success file was not found at: /Users/proberts/_backup_554/mapper/entries/fr-fr/blog_posts/success.json","timestamp":"2021-07-15T20:11:00.005Z"}
+{"level":"info","message":"\u001b[32mImported entries in 'fr-fr' language successfully!\u001b[39m","timestamp":"2021-07-15T20:11:00.006Z"}
+{"level":"info","message":"Successfully imported 'fr-fr' entries!","timestamp":"2021-07-15T20:11:00.006Z"}
+{"level":"info","message":"Re-modified content type schemas to their original form!","timestamp":"2021-07-15T20:11:00.008Z"}
+{"level":"info","message":"\u001b[32mEntries have been imported successfully!\u001b[39m","timestamp":"2021-07-15T20:11:00.010Z"}
+{"level":"info","message":"\u001b[32mThe stack has been eradicated from bugged entries!\u001b[39m","timestamp":"2021-07-15T20:11:00.010Z"}
+{"level":"info","message":"\u001b[32mAll the entries have been published successfully\u001b[39m","timestamp":"2021-07-15T20:11:00.013Z"}
+{"level":"info","message":"\u001b[37mMigrating labels\u001b[39m","timestamp":"2021-07-15T20:11:00.018Z"}
+{"level":"info","message":"\u001b[32mLabels have been imported successfully!\u001b[39m","timestamp":"2021-07-15T20:11:00.021Z"}
+{"level":"info","message":"The log for this is stored at /Users/proberts/Documents/jsTests/contentstack/content-stack/data/contents/logs/import","timestamp":"2021-07-15T20:11:00.021Z"}
+{"level":"info","message":"\u001b[32mStack: blt83d110e523ab4de2 has been imported succesfully!\u001b[39m","timestamp":"2021-07-15T20:11:00.021Z"}

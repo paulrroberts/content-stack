@@ -1,0 +1,4 @@
+{"level":"error","message":"\u001b[37mNo Languages Found\u001b[39m","timestamp":"2021-07-15T19:38:52.473Z"}
+{"level":"error","message":"The log for this is stored at /Users/proberts/Documents/jsTests/contentstack/content-stack/data/logs/import","timestamp":"2021-07-15T19:38:52.539Z"}
+{"level":"error","message":"\u001b[31mFailed to migrate stack: blt83d110e523ab4de2. Please check error logs for more info\u001b[39m","timestamp":"2021-07-15T19:38:52.538Z"}
+{"level":"error","message":"{\"errno\":-2,\"syscall\":\"scandir\",\"code\":\"ENOENT\",\"path\":\"/Users/proberts/_backup_993/content_types\"}","timestamp":"2021-07-15T19:38:52.538Z"}

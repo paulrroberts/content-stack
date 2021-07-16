@@ -7,13 +7,12 @@ import Stack from "../sdk-plugins/index";
 import Layout from "../components/layout";
 import Homepage from "../templates/Homepage";
 
-
 class Home extends React.Component {
   static async getInitialProps() {
     try {
-      const result = await Stack.getEntry('home', "en-us");
-      const header = await Stack.getEntry('header', "en-us");
-      const footer = await Stack.getEntry('footer', "en-us");
+      const result = await Stack.getEntry("home", "en-us");
+      const header = await Stack.getEntry("header", "en-us");
+      const footer = await Stack.getEntry("footer", "en-us");
       return { data: { result, header, footer } };
     } catch (error) {
       console.error(error);

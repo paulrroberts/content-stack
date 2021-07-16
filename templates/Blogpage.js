@@ -14,6 +14,10 @@ function dateSetter(params) {
   return `${mm}-${dd}-${yy}`;
 }
 
+function displayRichText(content) {
+  return { __html: content.slice(3, 150) };
+}
+
 class Blogpage extends React.Component {
   render() {
     const data = this.props.allpost;
@@ -34,73 +38,69 @@ class Blogpage extends React.Component {
           </ul>
         </div>
         <div className="bloglistContainer">
-          {data.map((list, idx) => (idx % 2 === 0 ? (
-            <div className="bloglist" key={idx}>
-              <div className="leftSection">
-                <div>
-                  <img
-                    className="listImages"
-                    src={list.hero_banner.banner_image.url}
-                    alt={list.hero_banner.banner_image.filename}
-                  />
+          {data.map((list, idx) =>
+            idx % 2 === 0 ? (
+              <div className="bloglist" key={idx}>
+                <div className="leftSection">
+                  <div>
+                    <img
+                      className="listImages"
+                      src={list.hero_banner.banner_image.url}
+                      alt={list.hero_banner.banner_image.filename}
+                    />
+                  </div>
+                </div>
+                <div className="rightSection">
+                  <h2>{list.title}</h2>
+                  <div>
+                    <span className="timeStamp">
+                      {dateSetter(list.publish_date)}
+                    </span>
+                    ,<span className="post-author">{list.author[0].title}</span>
+                  </div>
+                  <p
+                    className="blogPost"
+                    dangerouslySetInnerHTML={displayRichText(
+                      list.blog_body[0].rich_text_editor.rich_text
+                    )}
+                  ></p>
+                  <a className="postLink" href={`${list.url}`}>
+                    Read More
+                  </a>
                 </div>
               </div>
-              <div className="rightSection">
-                <h2>{list.title}</h2>
-                <div>
-                  <span className="timeStamp">
-                    {dateSetter(list.publish_date)}
-                  </span>
-                  ,
-                  <span className="post-author">
-                    {list.author[0].title}
-                  </span>
+            ) : (
+              <div className="bloglist" key={idx}>
+                <div className="leftSection">
+                  <h2>{list.title}</h2>
+                  <div>
+                    <span className="timeStamp">
+                      {dateSetter(list.publish_date)}
+                    </span>
+                    ,<span className="post-author">{list.author[0].title}</span>
+                  </div>
+                  <p
+                    className="blogPost"
+                    dangerouslySetInnerHTML={displayRichText(
+                      list.blog_body[0].rich_text_editor.rich_text
+                    )}
+                  ></p>
+                  <a className="postLink" href={`${list.url}`}>
+                    Read More
+                  </a>
                 </div>
-                <p className="blogPost">
-                  {`${list.blog_body[0].rich_text_editor.rich_text.slice(
-                    3,
-                    150,
-                  )}...`}
-                </p>
-                <a className="postLink" href={`${list.url}`}>
-                  Read More
-                </a>
-              </div>
-            </div>
-          ) : (
-            <div className="bloglist" key={idx}>
-              <div className="leftSection">
-                <h2>{list.title}</h2>
-                <div>
-                  <span className="timeStamp">
-                    {dateSetter(list.publish_date)}
-                  </span>
-                  ,
-                  <span className="post-author">
-                    {list.author[0].title}
-                  </span>
-                </div>
-                <p className="blogPost">
-                  {`${list.blog_body[0].rich_text_editor.rich_text.slice(
-                    3,
-                    150,
-                  )}...`}
-                </p>
-                <a className="postLink" href={`${list.url}`}>
-                  Read More
-                </a>
-              </div>
-              <div className="rightSection">
-                <div>
-                  <img
-                    className="listImages"
-                    src={list.hero_banner.banner_image.url}
-                    alt={list.hero_banner.banner_image.filename}
-                  />
+                <div className="rightSection">
+                  <div>
+                    <img
+                      className="listImages"
+                      src={list.hero_banner.banner_image.url}
+                      alt={list.hero_banner.banner_image.filename}
+                    />
+                  </div>
                 </div>
               </div>
-            </div>
-          )))}
+            )
+          )}
         </div>
       </div>
     );

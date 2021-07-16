@@ -22,7 +22,7 @@ class Aboutpage extends React.Component {
             </li>
           </ul>
         </div>
-      ),
+      )
     );
     return (
       <div className="aboutPage">

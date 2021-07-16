@@ -1,0 +1,12 @@
+{"level":"info","message":"Migrating languages","timestamp":"2021-07-15T19:38:52.471Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-07-15T19:38:52.479Z"}
+{"level":"info","message":"\u001b[33mNo Environment Found\u001b[39m","timestamp":"2021-07-15T19:38:52.480Z"}
+{"level":"info","message":"No Assets Found","timestamp":"2021-07-15T19:38:52.491Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-07-15T19:38:52.489Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-07-15T19:38:52.496Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-07-15T19:38:52.497Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-07-15T19:38:52.502Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-07-15T19:38:52.503Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-07-15T19:38:52.520Z"}
+{"level":"info","message":"\u001b[37mNo globalfields Found\u001b[39m","timestamp":"2021-07-15T19:38:52.521Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-07-15T19:38:52.536Z"}
