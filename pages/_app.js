@@ -2,6 +2,7 @@
 /* eslint-disable react/react-in-jsx-scope */
 import "../styles/style.css";
 import "react-responsive-carousel/lib/styles/carousel.css";
+import "@nuskin/ns-core-styles/src/dist/main.css";
 
 export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;

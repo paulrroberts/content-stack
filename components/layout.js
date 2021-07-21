@@ -19,7 +19,7 @@ class Layout extends React.Component {
       let metaArr = [];
       for (const key in seo) {
         metaArr.push(
-          <meta name={key.split("meta_")[1]} content={seo[key]} key={key} />,
+          <meta name={key.split("meta_")[1]} content={seo[key]} key={key} />
         );
       }
       return metaArr;
@@ -37,6 +37,11 @@ class Layout extends React.Component {
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
             type="text/css"
             rel="stylesheet"
+          />
+          <link
+            rel="stylesheet"
+            type="text/css"
+            href="https://use.typekit.net/drl7neu.css"
           />
           {this.props.seo ? metaData(this.props.seo) : null}
         </Head>
